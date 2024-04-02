@@ -7,4 +7,4 @@
 ! Syntax: AdBlock
 ! Number of entries: 1
 !
-||kinguin.net^
+@@||kinguin.net^
