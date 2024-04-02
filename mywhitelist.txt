@@ -1,0 +1,10 @@
+!
+! Title: My white list
+! Description: Allow my content.
+! Homepage: 
+! Last modified: 2024-04-02T13:42:36.151Z
+!
+! Syntax: AdBlock
+! Number of entries: 1
+!
+||kinguin.net^
